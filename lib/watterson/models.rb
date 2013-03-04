@@ -1,0 +1,1 @@
+require 'watterson/models/project'
